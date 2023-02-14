@@ -20,7 +20,7 @@ In the terminal enter this command:
 
 after placing this command, this screen will open:.
 
-![App Screenshot](https://github.com/LittlePepe/EncryptFileV2/blob/main/encrypt.png?raw=true)
+![App Screenshot](https://github.com/LittlePepe/EncryptFileV2/blob/main/screenshot/encrypt.png?raw=true)
 
 
 The first option will generate the key
